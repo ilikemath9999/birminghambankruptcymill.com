@@ -1,0 +1,20 @@
+# Birmingham Bankruptcy Mill: Warning Signs and What the Court Data Shows
+> Learn about birmingham bankruptcy mill: warning signs and what the court data shows | birminghambankruptcymill.com in our free 2026 guide.
+
+## About
+birminghambankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Birmingham Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://birminghambankruptcymill.com/
+- Chapter 13 Bankruptcy Mills in Birmingham: Red Flags and What to Watch For: https://birminghambankruptcymill.com/chapter-13-birmingham.html
+- Chapter 7 Bankruptcy in Birmingham: Costs, Timeline and What to Know: https://birminghambankruptcymill.com/chapter-7-birmingham.html
+- How to Check Your Birmingham Bankruptcy Attorney's Track Record: https://birminghambankruptcymill.com/how-to-check.html
+- 5 Warning Signs of a Bankruptcy Mill in Birmingham: https://birminghambankruptcymill.com/warning-signs.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
